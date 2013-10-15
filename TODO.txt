@@ -1,0 +1,29 @@
+
+pegdown-utils
+- DOM model for AST
+- Better navigation (both directions, line numbers)
+- Produce identical text representation without markdown thingies
+- Different iterators and extactors based on DOM or AST
+- AST printer
+- Logging visitor
+- Slurper
+- Groovy/Java/Scala support
+- Easy markdown syntax extentions
+- Options builder
+- Markdown debugging
+
+
+pegdown-rules
+- Validation rules base classes
+- Spellchecker integration
+- Code validation integration
+
+
+pegdown-converters
+- HTML code high-lighting
+- Simple PDF producing
+- Simple DOCX producing
+- Docbook conversion
+- Other converters...
+- Support for MathML???
+
